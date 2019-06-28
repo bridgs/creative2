@@ -1,7 +1,7 @@
 L = require 'https://raw.githubusercontent.com/nikki93/L/3f63e72eef6b19a9bab9a937e17e527ae4e22230/L.lua'
 serpent = require 'https://raw.githubusercontent.com/pkulchenko/serpent/879580fb21933f63eb23ece7d60ba2349a8d2848/src/serpent.lua'
 
-local simulsim = require 'https://raw.githubusercontent.com/nikki93/simulsim/2f70863464fe1b573d1f07d947cdebbd9f710451/simulsim.lua'
+local simulsim = require 'https://raw.githubusercontent.com/nikki93/simulsim/ce3da77e12c28cf315abfe7c3d52e067842f47dd/simulsim.lua'
 
 local game = simulsim.defineGame()
 
